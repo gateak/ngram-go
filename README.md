@@ -28,7 +28,7 @@ The `lcsmatching.go` file implements algorithms related to the Longest Common Su
 
 ### Prerequisites
 
-- Go (version x.x or later)
+- Go (version 1.23 or later)
 
 ### Installation
 
