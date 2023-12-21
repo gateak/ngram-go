@@ -33,9 +33,11 @@ The `lcsmatching.go` file implements algorithms related to the Longest Common Su
 ### Installation
 
 1. Clone the repository:
+   
 `git clone https://github.com/[username]/ngram-go.git`
 
-2. Navigate to the repository:
+3. Navigate to the repository:
+   
 `cd ngram-go`
 
 ### Usage
