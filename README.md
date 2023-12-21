@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `ngram-go` repository is a Go language project focused on implementing N-gram based algorithms. It currently features two primary files: `ngram.go` and `lcsmatching.go`, each offering unique functionalities in the realm of string matching and analysis.
+The `ngram-go` repository is a Go language project focused on implementing natural langauge processing algorithms and models. It currently features two primary files: `ngram.go` and `lcsmatching.go`, each offering unique functionalities in the realm of string matching and analysis.
 
 ## Files
 
